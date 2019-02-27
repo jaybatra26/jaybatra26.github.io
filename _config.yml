@@ -12,7 +12,7 @@ url: "http://www.jaybatra.xyz"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /jaybatra26.github.io
 
 # Google tracking id
 
@@ -126,21 +126,6 @@ disqus-shortname: "personal-jekyll-theme"
 
 syntax-highlight: True
 
-############
-# Timeline #
-############
-
-events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-
-# First image of the Timeline
-
-timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
@@ -186,7 +171,7 @@ err-404-img: "/img/labtocat.png"
 pages_list:
   About: 'about'
   Blog: 'latest-post'
-  Timeline: 'timeline'
+  Resume: 'resume'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
