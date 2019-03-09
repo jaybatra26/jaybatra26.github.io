@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/assets/images/jaybatra.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -142,7 +142,7 @@ email: "jaybatra73@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Jay Batra is a Masters Student. He lives in India, his interests revolve around data science projects."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/assets/images/author.jpg"
 
 ##################
 # Social Buttons #
